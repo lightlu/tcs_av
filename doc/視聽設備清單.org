@@ -1,0 +1,111 @@
+* 聲音相關設備
+  * 無線麥克風以及耳麥
+    * MIPRO ACT-747
+      * 主機一台
+      * 4 channels
+      * 無線手握麥克風一支
+      * 隨身耳麥三個，ACT-30T FREQ 8B
+        * 488128523A
+        * 488128530A
+        * 488128531A
+    * MIPRO ACT-727
+      * 主機一台
+      * 2 channels
+      * 無線手握麥克風二支
+    * MIPRO MR-822 UHF Dual Channel Diversity Receiver
+      * 主機二台
+        * Freq. U808C
+        * Freq. U808D
+      * 每台分別有2 channels
+      * 無線手握麥克風二支
+      * 隨身耳麥一個
+        * 型號MT-808 U7808C 599-006340
+        * 9V方型電池
+    * MIPRO MR-822 UHF PLL Diversity Receiver
+      * 主機一台
+      * 2 channels
+      * 隨身耳麥二個，MT-808 U794B
+        * 609001057A
+        * 204301003A
+      * 9V方型電池
+    * 隨身耳麥四個，MIPRO UHF MT-801
+      * 810.650MHz(B6) 199-013086
+      * 810.650MHz(B6) 501-115318
+      * 782.925MHz(A1) 159024045 A
+      * 782.925MHz 599-008841
+      * 沒有主機
+      * 9V方型電池
+    * 消耗品耳麥若干
+  * 有線麥克風
+    * Superlux 兩隻
+      * PRA118 Shotgun Microphone
+      * 用來詩班收音
+      * 每隻標價9500元
+    * HUNG FA兩隻收音
+      * SUPER UNI-DRECTIONAL ECM-888
+      * 退役但堪用
+    * 鵝頸式
+      * 講道台一隻
+      * 鋼琴收音一隻
+  * 混音器
+    * 14-channel Mic/Line Mixer
+    * STK VX-1443FDR
+  * 擴大機 McLELLAND X-2100
+  * 等化器 PHONIC PEQ 3600 DUAL 31-BAND GRAPHIC EQ
+    * 未實質使用
+
+* 錄影相關設備
+  * 數位+類比TV高畫質影音播放/錄影機
+    * 虹果愛家 http://www.ared.com.tw/
+    * 錄影 Full HD Media Center
+    * 型號:QB7220
+  * 外接式硬碟兩台
+    * Seagate FreeAgent GoFlex Desk
+    * PN:9ZQ2P5-500 2TB
+  * 影像、聲音混和器
+    * 型號未查
+  * 電視強波器
+    * 型號未查
+  * 錄影監看螢幕
+    * COMPAQ Q1859
+  * 圓剛 液晶電視器 俗稱電視盒
+    * NTSC-T MOB7-L
+  * 錄影鏡頭一個
+    * 攝影鏡頭有線遙控接受器，以及遙控器
+
+* 投影相關設備
+  * 影像分配器
+    * SMART VIEW VIDEO SPLITER
+    * 一進四出 4 port VS-814H
+  * 影像切換器
+    * SMART VIEW NUSWITCH
+    * VIDEO SELECTION VRM-712E
+    * 2 port
+  * 投影機VGA輸出線
+  * LCD VGA WiFi 連接器
+
+* 電腦設備
+  * ASUS 電腦桌機一台
+    * CP6230
+  * 螢幕
+    * CMV 221A
+
+
+* DVD player
+  * ETIC YS-968
+
+* 網路
+  * 5 port ethernet switch RJ45
+
+* 機櫃
+
+* 防潮箱一個
+  * 台灣防潮科技
+  * 型號:時尚A型
+  * 序號AX51616
+  * 有效容積62L
+  * 尺寸
+    * 類比收藏家 CD-75 時尚收藏系列
+    * 尺寸：W40xH56xD41 (cm)
+
+* 音樂CD若干
