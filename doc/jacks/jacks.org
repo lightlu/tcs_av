@@ -1,0 +1,211 @@
+作者: yeahbo (MSA-0011[Bst]PLAN303E) 看板: Headphone
+標題: Re: [問題] 最近一直搞不太清楚各種線材的頭
+時間: Wed Apr  6 23:14:30 2011
+
+目錄
+
+一、類比接頭：
+(1) RCA
+(2) XLR
+(3) TRS
+(4) TS
+(5) MIDI
+(6) Speaker
+
+二、數位接頭：
+(1) S/PDIF
+(2) AES/EBU
+(3) I2S
+(4) USB
+(5) IEEE1394
+(6) HDMI
+---
+一、類比接頭：
+(1) RCA：      http://upload.wikimedia.org/wikipedia/commons/2/29/RCA_jacks.jpg
+
+[[./RCA_jacks.jpg]]
+
+在台灣一般俗稱的梅花頭（因某些型式的 RCA 接頭外觀看似梅花瓣），此種接頭是由兩個
+接點所組成，分別為 Positive(+)、Ground(Sleeve)，常使用在一般家用音響器材上。
+
+通常線材兩端都是公頭，器材上都是母座。
+
+在立體聲音頻應用中，有可能出現合在一起的"黑+紅"或者"白+紅"RCA端子，任何情況下
+，紅色都需要接右邊。也有"黑+白"的例外，Nordost 家的旗艦訊號線 ODIN 使用"黑+白"
+="右+左"。（感謝 MitsuhideA 提供資訊）（P.S. ODIN 暱稱丁丁）
+
+因為很多連結方式都採用 RCA 接頭，可以參考連接中接頭腳位與顏色的對照表。
+
+http://zh.wikipedia.org/wiki/RCA%E7%AB%AF%E5%AD%90
+http://en.wikipedia.org/wiki/RCA_connector
+
+
+
+
+---
+(2) XLR： http://upload.wikimedia.org/wikipedia/commons/1/15/Xlr-connectors.jpg
+
+[[./Xlr-connectors.jpg]]
+                                                     （圖中左為母頭、右為公頭）
+俗稱 Cannon 頭，此種接頭是由三個接點所組成，分別為 Ground(Sleeve)、Positive(+)
+、Negative(-)（Positive 又稱 hot、negative 又稱 cold），常使用在麥克風、錄音器
+材上。
+
+但也有更多接點的版本，某些特殊器材會使用。此外也有小型化 mini 版，例如 AKG 耳機
+線接頭使用 3-pin mini-XLR 接頭。
+
+腳位定義有分歐規、美規、日規等，主要是正負腳位會相反，要連接之前請先確認極性方
+向。可以訂做特製訊號線解決，另外中高階器材通常可以調整輸出腳位。
+
+XLR 接頭輸出是用公頭、輸入是用母頭，如下例子：（感謝版主 jackjack0805 提供資訊)
+[DAC→公座] → [母頭→訊號線→公頭] → [母座→擴大機]
+
+雖然有三個接腳，但通常只傳輸一個訊號，正負線上的訊號電壓相反。因此作為類比訊號
+連接時，仍會有兩條線分別傳送左右聲道。
+
+http://en.wikipedia.org/wiki/XLR_connector
+
+
+---
+通常 XLR 訊號線上傳輸的電壓高很多，要做 RCA 轉接 XLR 之前需要三思，並仔細確認器
+材的輸出電壓擺幅，以及可承受之最大輸入電壓，若超過規格輕則發生 clipping 失真，
+嚴重有可能傷害器材。
+
+Q&A. 走 RCA 跟 XLR 在聲音表現方面有什麼不同嗎？
+
+  簡單的說，RCA（單端）和XLR（平衡）根本沒辦法比較。  XD
+  平衡架構的+/-各需要一套電路（DAC 和 Amp 都要），也因為這樣的架構，真正的平衡
+系統會很貴，光是電子零件用量就是一般單端系統兩倍。另外端子與線材的結構也差異很
+大，XLR 比 RCA 多了一個腳，使得訊號線的材料用量和價格倍增，不同的線身結構也會帶
+來不同電氣特性。況且都用上平衡架構，自然會因應此結構另做設計，因此幾乎沒有辦法
+簡單的互相比較單端與平衡的差異。因為無法分辨是電路結構帶來的差異，還是來自不同
+的電路設計與調音。
+  另外，有些器材一開始就沒有基於平衡架構設計，只是在輸出時另外做一個反相器輸出
+負端訊號。這招還算有品（笑），但是其線路並沒有拿到平衡架構的好處。最過分的就是
+只有單端輸出的電路，卻直接把訊號接上平衡接頭，這就是所稱的假平衡，很多器材都是
+這樣亂做，這種做法非但沒有平衡架構的好處，還有可能因為接腳亂接，造成訊號錯誤，
+甚至有機會燒機器...
+  也有人說付出這麼大的成本搞平衡系統，帶來的改善不會很大。不一定會帶來好處的前
+提下，再加上便宜的器材通常只是假平衡。總之，一般狀況下，不需特別追求平衡系統...
+比較重要的是系統整體的搭配與調音。
+---　
+(3) TRS：
+        http://upload.wikimedia.org/wikipedia/commons/2/27/Photo-audiojacks.jpg
+
+[[./Photo-audiojacks.jpg]]
+
+一般俗稱的立體聲接頭，此種接頭是由三個接點所組成，分別為 Tip(+)、Ring(-)、
+Sleeve(Ground)，常使用在耳機接頭、錄音器材上。
+
+有三種尺寸，分別是 1/4 吋（約 6.3mm）、3.5mm（約 1/8 吋）和 2.5mm（約 3/32 吋）
+
+較新版本的 iDontcare(誤) iPod、iPhone 會使用四節的 TRRS 接頭，因此可以另外做音
+量、選曲控制。
+
+http://en.wikipedia.org/wiki/TRS_connector
+
+
+(4) TS：
+
+俗稱的單音(聲)接頭，此種接頭是由兩個接點所組成，分別為 Tip(+)、Sleeve(Ground)。
+
+其他細節與 TRS 相同。
+
+
+---
+(5) MIDI：     http://upload.wikimedia.org/wikipedia/commons/9/98/Midiaansl.jpg
+
+[[./Midiaansl.jpg]]
+
+使用在MIDI應用上的接頭，有五個針腳，傳送有關MIDI上的資訊。
+
+其他詳見參考連結：
+
+http://en.wikipedia.org/wiki/Musical_Instrument_Digital_Interface
+
+
+(6) Speaker：
+
+主動式喇叭因為有內建擴大機，通常用 RCA、XLR、或是 TRS 接頭連接；而被動式喇叭用
+的連接接頭通常有下面幾種：
+
+裸線
+香蕉插   http://upload.wikimedia.org/wikipedia/en/3/33/Speaker_banana_plugs.jpg
+
+[[./Speaker_banana_plugs.jpg]]
+
+
+壓接端子：R端子（圓形）、Y端子（前開形）。         （圖片：http://ppt.cc/m57T）
+
+http://en.wikipedia.org/wiki/Binding_post
+http://ja.wikipedia.org/wiki/%E5%9C%A7%E7%9D%80%E7%AB%AF%E5%AD%90
+
+---
+二、數位接頭：
+
+(1) S/PDIF：
+
+全名為 Sony/Philips Digital Interconnect Format。
+
+使用同軸（RCA 接頭、或是 BNC 接頭）或光纖傳輸（TOSLINK）。（感謝 capri75 提醒）
+
+因為數位訊號頻率高很多，必須使用有特定"特徵阻抗"的傳輸線，這裡的同軸使用 75Ω。
+如果阻抗不對，可能會因為訊號反射造成錯誤，所以原則上不能用類比的訊號線。
+
+線材通常兩端皆為公頭，器材皆為母座，RCA 母座會是橘色的。
+
+實際上，因為一些歷史因素，絕大多數的 RCA 母座並沒有符合 75Ω 特徵阻抗的要求。所
+以若是用上 RCA 接頭的同軸線... 就不要想太多了（笑）（這個議題多次引發論戰 XD）
+如果講究的話，可以選擇 BNC 接頭，不過要注意 BNC 常見有兩種特徵阻抗（50Ω/75Ω）
+，不要選錯。另外有使用 BNC 的器材很稀少，反而是常見於 Word Clock 的 I/O。
+
+http://en.wikipedia.org/wiki/S/PDIF
+
+
+---
+(2) AES/EBU：
+
+通常使用特徵阻抗 110Ω 的數位訊號線，接頭為 3-pin XLR。腳位定義與 XLR 相同。線
+材兩端一公一母，輸出入方向與 XLR 類比線相同，例如：
+[CD轉盤→公座] → [母頭→數位線→公頭] → [母座→DAC]
+
+通常是單條傳輸線。但也有使用兩條線的 dual AES/EBU 模式，例如 Esoteric 的高階分
+件式 SACD/CD player 就有提供這個模式。
+
+S/PDIF 算是 AES/EBU 的消費者用版本。AES/EBU 的訊號和 S/PDIF 幾乎相同，但是兩者
+不能直接連接，因為 AES/EBU 的傳輸電壓高很多，隨便轉接可能會造成器材損毀。（詳見
+S/PDIF 的 wikipedia 條目）
+
+http://en.wikipedia.org/wiki/AES/EBU
+
+
+
+
+
+
+
+---
+(3) I2S：
+
+全名 Inter-IC Sound、或是 Integrated Interchip Sound，又稱 IIS。
+
+通常是器材內轉盤（CD transport）傳輸訊號給 DAC 解碼的介面，但也有些器材有做成外
+接接頭，讓轉盤與 DAC 可以分成兩台。
+
+此介面尚未有標準接頭。有出現 RJ45、HDMI、或是其他特殊接頭。
+
+http://en.wikipedia.org/wiki/I%C2%B2S
+
+
+(4) USB：
+http://en.wikipedia.org/wiki/USB
+
+(5) IEEE1394：
+http://en.wikipedia.org/wiki/IEEE1394
+
+(6) HDMI：
+http://en.wikipedia.org/wiki/HDMI
+
+---
+
+
