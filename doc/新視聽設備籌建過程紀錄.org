@@ -103,12 +103,12 @@ http://www.rolandtaiwan.com.tw/....../cm-220/
 
 龍塢樂府 陳昭元 謹敬
 * My answer
-#+BEGIN_COMMENT
+
 陳老闆您好：
-1.8080c
+1.808D
 
 2.
-* 隨身耳麥四個，MIPRO UHF MT-801
+** 隨身耳麥四個，MIPRO UHF MT-801
       * 810.650MHz(B6) 199-013086
       * 810.650MHz(B6) 501-115318
       * 782.925MHz(A1) 159024045 A
@@ -119,18 +119,18 @@ http://www.rolandtaiwan.com.tw/....../cm-220/
 5.新的列陣喇叭革新外場成音及監聽的觀念. 如此的作法目前已經有專業團體採用嗎？您有經手這樣的整合專案嗎？
 
 6.請幫忙確認以下樂器及樂手接線系統圖，以及針對？？？的部份回覆。謝謝
-* 效果器
-** 機型/規格 ???
-* EQ
-** 機型/規格 ???
-* 腰掛接收器
-** 機型/規格 ???
-* 發射主機
-** 機型/規格 ???
+** 效果器
+*** 機型/規格 ???
+** EQ
+*** 機型/規格 ???
+** 腰掛接收器
+*** 機型/規格 ???
+** 發射主機
+*** 機型/規格 ???
 
-* -)-)-)- 表示無線傳輸
-* ======  表示樂器專用多合一傳輸線 
-* 樂器及樂手接線圖
+** -)-)-)- 表示無線傳輸
+** ======  表示樂器專用多合一傳輸線 
+** 樂器及樂手接線圖
 
   吉他--->腰掛發射器-)-)-)-接收主機--->效果器--->EQ--->S1608===>M-200i
 
@@ -142,5 +142,68 @@ http://www.rolandtaiwan.com.tw/....../cm-220/
 
   鋼琴-)-)-)-麥克風--->S1608===>M-200i
 
-#+END_COMMENT
+
+
+
+* chen boss response
+1:已收到您的更正為808D
+
+2:目前正向同業確認可能供應來源
+
+4：由於效果器的個人需求、喜好的主觀度極高、建議本項應由該樂器的樂手自由指定較為妥當。
+     EQ部分, 通常會附在效果器或音箱上可供調整, 
+     至於更好的等化器部份, 可採購最便宜的兩軌Behringer DEQ1024(10,000/部)直接調所需要的精細精準頻段,
+     或直接購買報價單上已列價格之迴授抑制器FBQ100, 直接抑制迴授, 監調整EQ(但須進入功能頁面調整)
+     綜上可知,直接採購效果器或音箱的綜效邊際成本是最低的, 由混音機端調整的成本是0
+     DEQ1024 : http://www.behringer.com/EN/Products/DEQ1024.aspx
+     FBQ100   : http://www.behringer.com/EN/Products/FBQ100.aspx
+
+5. 相同列陣喇叭暨中控設備, 已於新近一個月在泰山美門堂架設,若有試聽需求, 
+    敝公司專業音樂人士客戶、金馬獎2004最佳配樂得主張見宇牧師、
+    相信他將非常歡迎  貴會的參訪、若您有任何疑問, 您亦可向他請教該系統
+
+    另外、相同列陣喇叭國外案例無數 :
+這是列陣技術性優勢的學理論述：
+https://www.youtube.com/watch?v=aRoFcrRuGWo
+https://www.youtube.com/watch?v=Vazso8LYpqc
+https://www.youtube.com/watch?v=FBWXVg_7424&list=PLC129BF2C5353C041
+這是單用一組100人的：
+Francisco Alatorre Hotel California
+這是名人使用介紹 :
+Charlie Farren on Bose L1 Line Array Systems - Bose L1
+Uptempo play Green Door, with Bose L1 sound system.
+https://www.youtube.com/watch?v=J_CRS4TEulY
+這是各國各種不同場合的運用： 
+Bose L1 Model 2 Demo
+Jordan and Waters country medley
+https://www.youtube.com/watch?v=3UFfD0Ds9ag
+https://www.youtube.com/watch?v=LO8EPtmYLIo
+Charlie Farren on Bose L1 Line Array Systems - Bose L1
+https://m.youtube.com/watch?v=AIv_nCkLC_o
+https://www.youtube.com/watch?v=_h5Zzsc-WTM
+一般國外運用甚至是一人配一組：
+https://www.youtube.com/watch?v=ZWMJFoOfA84
+Ain't No Sunshine (Salon de la musique 2010) BOSE (Milf Men i like Funk)
+Sultans
+Bose L1 in action
+Words Won't Fit The Mouth
+https://www.youtube.com/watch?v=jhV-3zy3TGg
+這是100/300/500各一組的混搭使用
+3 Bose L1s: Classic, Model II, & Compact - Dick Tater & The Tots
+以上, 為列陣擴聲系統的案例
+
+6. 關於效果器暨EQ部分如第4項之回覆, 但因接法有很多種, 可放在混音機前, 
+　 或混音機中, 或混音機後,皆各有其優劣點, 
+    組合總數相當複雜, 這恐怕不是E-MAIL方便說明的
+
+    樂器改為無線與採用效果器或等化器是兩件事, 基本上它只是提供無線傳輸訊號而已, 
+    實際線路將依樂器後, 混音機前的配置確認後, 方能有精確的系統圖, 因此, 一切皆與預算有關
+
+7. 關於1/4TRS非平衡式線材, 建議不要太長, 15米已可能產生干擾雜訊
+    若是1/4TRS平衡線, 依線材不同, 可拉最長至100米
+    所以15米線, 一般都是採用6.3mm(1/4TRS)或CANON(XLR)做成平衡線
+    關於是否做成平衡或非平衡?是依據您所連接的器材來決定
+    如果是吉他, BASS類樂器, 這是很少有平衡輸出的, 因此15米非平衡將會有點太長
+    未知您要連接的樂器為何?一般我們都是手工製作相關客訂線材
+以上, 請參考
 
