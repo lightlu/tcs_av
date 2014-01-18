@@ -1,0 +1,136 @@
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setCJKmainfont{SimSun}
+
+* 2電1木1貝斯
+** Electric Guitar Amp
+*** 需求數量：四選二
+*** 需求選擇：
+**** 1. Roland Jazz Chorus JC90 
+***** 網路尋價 已經停產
+**** 2. Roland Jazz Chorus JC120 
+***** 網路尋價 $33,500
+***** 官方網址 http://www.roland.com/products/en/JC-120/
+***** 圖片
+****** [[./Roland_Jazz_Chorus_JC120_01.png]]
+****** [[./Roland_Jazz_Chorus_JC120_02.png]]
+***** 規格
+****** Rated Power Output 
+120W (60W + 60W)
+****** Speakers 
+12” (30 cm) x 2 
+****** Connectors 
+Line Out (L/Mono, R), Input (High, Low), Footswitches (Chorus/Vibrato, Reverb, Distortion), Channel 2 (Effect Loop Send), Effect Loop Return (L/Mono, R)
+****** Power Consumption 
+110W (AC 117/230/240 V)Accessory Casters (x 4)
+****** Size and Weight （incl. casters）
+Width (W)760 mm29-15/16 inches
+Depth (D)280 mm11-1/16 inches
+Height (H)622 mm24-1/2 inches
+Weight 28 kg61 lbs. 12 oz.
+**** 3. Marshall MG50CFX 
+***** 網路尋價 $15,300
+***** 官方網址 http://www.marshallamps.com/wp-content/uploads/2013/08/mg15cfx-mg100hcfx-hbk1.pdf
+***** 圖片
+****** [[./Marshall_MG50CFX_01.png]]
+****** [[./Marshall_MG50CFX_02.png]]
+***** 規格 
+****** Marshall MG50CFX 1x12" 50-Watt 4-Channel Combo w/ FX Specs:
+****** Type	Solid State
+****** Number of Channels	4
+****** Power	50W
+****** Speakers	1 x 12"
+****** Effects	Yes
+****** Reverb	Yes
+****** EQ	Bass, Middle, Treble
+****** Amp Modeling	No Amp Modeling
+****** Number of Models	0
+****** Preamp Tubes	No Tubes
+****** Power Tubes	No Tubes
+****** Inputs	1 x Instrument, 1 x MP3/Line (1/8")
+****** Outputs	1 x Headphone (1/8")
+****** Footswitch I/O	Yes
+****** Effects Loop	No Effects Loop
+****** Height 16.5"; Width 18.9"; Depth 8.9"; Weight 23.8 lbs.
+****** Features:
+******* Marshall tone with smart, useful features make a great combo amp
+******* Four programmable channels let you save your favorite settings
+******* Built-in FX make it easy to get the perfect tone
+******* Speaker-emulated line output is ideal for silent practice or recording
+******* Compatible with Marshall's MG Footcontroller (sold separately)
+
+**** 4. Fender Twin Reverb Mustang III 100 
+***** 網路尋價 $16,500
+***** 官方網址 http://www.fender.com/en-TW/series/mustang/mustang-iii-v2-120v/
+***** 圖片
+****** [[./Fender_Twin_Reverb_Mustang_III_01.png]]
+****** [[./Fender_Twin_Reverb_Mustang_III_02.png]]
+****** [[./Fender_Twin_Reverb_Mustang_III_03.png]]
+***** 規格
+****** General
+******* Model Name:	Mustang™ III (V.2), 120V
+******* Model Number:	2300300000
+******* Series:	Mustang™
+******* Color:	Black
+******* Amplifier Type:	Solid State
+
+****** Electronics
+******* Controls:	Gain, Volume, Treble, Middle, Bass, Reverb, Master; Data Wheel; Soft Keys for Amp Select, Stomp Edit, Modulation Edit, Delay Edit, Reverb Edit, Utility, Save, Exit, and Tap/Tuner
+******* Voltage:	120V
+******* Wattage:	100 Watts
+******* Inputs:	One - 1/4"
+******* Channels:	One
+
+****** Hardware
+******* Grill Cover:	Black Textured Vinyl Covering with Silver Grille Cloth
+******* Amplifier Depth:	10.75" (27.3 cm)
+******* Amplifier Width:	20.5" (52.1 cm)
+******* Amplifier Height:	17.75" (45.1 cm)
+******* Amplifier Weight:	36 lbs. (16.3 kg)
+
+****** Speakers
+One - 12" Celestion® G12T-100
+
+****** Miscellaneous
+Seventeen high-quality Fender and other amp models including five new ones, such as ’57 Twin and ‘60s Thrift; a full palette of effects including reverb, delay/echo, tremolo, phaser, with additional new effects including Big Fuzz, Green Screamer and intelligent pitch shifting (with even more available through Fender® FUSE™); 100 onboard factory and user presets; two stereo XLR outputs, headphone output and auxiliary input; new low-noise power amp platform; chromatic tuner; expression pedal capabilities (p/n 2301050000); “Blackface” treatment and top-load front control panel; USB connectivity for high-quality, low-latency audio output and interface with free Fender® FUSE™ PC application; Fender® FUSE™ application for on-screen parameter control, deep editing, unlimited preset storage, online patch swapping and easy firmware upgrades (Fender® FUSE™ community includes chat forums, preset trading, and additional content from Fender® and artists); Ableton® Live Lite 8 Fender® edition studio-quality recording software compatible with Mustang USB recording output; AmpliTube® Fender® LE edition with free Fender® FUSE™ editor/librarian software for Mac and PC (makes Mustang ideal for guitarists new to digital recording).
+
+** Acoustic Guitar Amp
+*** 需求數量：二選一
+*** 需求選擇：
+**** 1. Roland AC60 吉他擴大音箱 
+***** 網路尋價 $18,500
+**** 2. Roland AC30
+***** 網路尋價 未搜尋到
+
+** Bass Guitar Amp
+*** 需求數量：三選一
+*** 需求選擇：
+**** 1. Ampeg BA115 Ampeg BA115 電貝斯音箱 100瓦 15吋喇叭單體 內建數位效果 
+***** 網路尋價 $22,000
+**** 2. SWR Working Pro 10 電貝斯音箱 
+***** 網路尋價 $19,900
+**** 3. Warwick CCL Combo Bass Amp
+***** 網路尋價 未搜尋到
+
+
+* 電子鼓
+** 需求選擇：
+*** Yamaha DTX-532K 
+**** 網路尋價 $53,000 
+*** Yamaha DTX-562K 
+**** 網路尋價$68,000 
+*** Roland TD 11K 
+**** 網路尋價$41,000
+*** Roland TD 15K 
+**** 網路尋價$62,000
+
+* 廠商建議的「綜合效果器」
+** Line 6 HD300 
+*** 網路尋價 $12,500 
+** Line 6 HD400 
+*** 網路尋價 $13,900
+** Line 6 HD500X 
+*** 網路尋價 $18,900
+** Zoom A3 ZOOM_A3 木吉他
+*** 網路尋價 $9650
+
+
