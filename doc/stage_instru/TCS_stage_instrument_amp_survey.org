@@ -125,11 +125,50 @@ Seventeen high-quality Fender and other amp models including five new ones, such
 
 * 廠商建議的「綜合效果器」
 ** Line 6 HD300 
-*** 網路尋價 $12,500 
+*** 網路尋價 $12,500
+*** 官方網址 http://line6.com/podhd/multi-effects/
+*** 規格
+30 HD amp models
+80+ effect models
+Up to 6 simultaneous effects
+128 user presets
+24-second on-board looper with dedicated controls
+Unbalanced 1/4" Main outs (L+R)
+1/4" stereo headphone out
+Balanced XLR outs (L+R)
+L6 LINK™ jack
+MP3/CD in
+Built-in tuner
+Tap tempo
+MIDI via USB
+Expression pedal
+Software editor/librarian
+Metal chassis, pedal and footswitches
 ** Line 6 HD400 
 *** 網路尋價 $13,900
+*** 官方網址 http://line6.com/podhd/multi-effects/
+*** 規格
+30 HD amp models
+100+ effect models
+Up to 6 simultaneous effects
+128 user presets
+24-second on-board looper with dedicated controls
+Unbalanced 1/4" Main outs (L+R)
+1/4" stereo headphone out
+Balanced XLR outs (L+R)
+L6 LINK™ jack
+Stereo FX return
+MP3/CD in
+Built-in tuner
+Tap tempo
+MIDI via USB
+Expression pedal
+Aux expression pedal jack
+Software editor/librarian
+Metal chassis, pedal and footswitches
 ** Line 6 HD500X 
 *** 網路尋價 $18,900
+*** 官方網址 http://line6.com/podhd500x/
 ** Zoom A3 ZOOM_A3 木吉他
 *** 網路尋價 $9650
 
